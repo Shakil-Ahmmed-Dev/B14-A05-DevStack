@@ -3,7 +3,7 @@ import Hero from "./Hero";
 
 export default function Main() {
   return (
-    <main>
+    <main className="max-w-7xl mx-auto">
       <Hero />
       <ExploreTechnologies />
     </main>
